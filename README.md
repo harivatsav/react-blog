@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a single page react blog project and I have used weather Api integreation which would refresh the page and call for the api data for updates every five seconds.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
